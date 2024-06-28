@@ -1,0 +1,8 @@
+# datasets
+# requests
+groq
+pandas
+python_dotenv
+replicate
+tavily-python
+
