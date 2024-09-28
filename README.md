@@ -69,6 +69,10 @@ After the filtering process, the data can be used with an LLM as mentioned in [U
 - This file pushes the filtered data to Pinecone DB and uses it with an LLM.
 
 
+## :computer: More Projects
+For more projects, open the profile: **[@Pro-GenAI](https://github.com/Pro-GenAI)** <br>
+
+
 ## :hammer_and_wrench: Contributing
 Contributions are welcome! Feel free to create an issue for any bug reports or suggestions. <br>
 Please contribute to the code by adding more filters and making the code more efficient. <br>
