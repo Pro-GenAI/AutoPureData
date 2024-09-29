@@ -40,8 +40,8 @@ A published research paper is available at [JMCA/2024(3)E121](https://doi.org/10
 To use my paper for reference, please cite it as below:
 ```bibtex
 @article{vadlapati2024autopuredata,
-	title={AutoPureData: Automated Filtering of Undesirable Web Data to Update LLM Knowledge},
-	author={Vadlapati, Praneeth},
+	title={{AutoPureData: Automated Filtering of Undesirable Web Data to Update LLM Knowledge}},
+	author={Praneeth Vadlapati},
 	journal={Journal of Mathematical \& Computer Applications},
 	volume={3},
 	number={4},
