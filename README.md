@@ -4,7 +4,7 @@
 
 Automated Filtering of Undesirable Web Data to Update LLM Knowledge
 
-[![License: AFL v3](https://img.shields.io/badge/License-AFLv3-yellow.svg?style=for-the-badge)](./LICENSE.md)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-yellow.svg?style=for-the-badge)](./LICENSE.md)
 [![DOI](https://img.shields.io/badge/DOI-10.47363%2FJMCA%2F2024%283%29E121-darkgreen?style=for-the-badge)](https://doi.org/10.47363/JMCA/2024(3)E121)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 <!-- [![arxiv 2406.19271](https://img.shields.io/badge/arXiv-2406.19271-B31B1B?logo=arxiv&style=for-the-badge)](https://arxiv.org/abs/2406.19271) -->
